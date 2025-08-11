@@ -57,8 +57,12 @@
 <a href="https://github.com/Juan2007-sys/FrontEnd_Store">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Juan2007-sys&repo=FrontEnd_Store&theme=tokyonight" />
 </a>
-
-
+<a href="https://github.com/Juan2007-sys/FrontEnd_Store">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Juan2007-sys&repo=FrontEnd_Store&theme=tokyonight" />
+</a>
+<a href="https://github.com/Juan2007-sys/FrontEnd_Store">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Juan2007-sys&repo=FrontEnd_Store&theme=tokyonight" />
+</a>
 
 
 
