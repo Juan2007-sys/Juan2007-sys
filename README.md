@@ -20,8 +20,8 @@
       <img align="left" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" style="margin-right: 15px;">
    </picture>
 
-- 🎓 **4th semester student** at [Manuela Beltrán University](https://umb.edu.co/), passionate about technology and software development.  
-- 💻 **Junior Developer** with training in **Full Stack Web Development** (HTML5, CSS3, JavaScript, AJAX, PHP, MySQL) and **Basic Python**.  
+- 🎓 **5th semester student** at [Manuela Beltrán University](https://umb.edu.co/), passionate about technology and software development.  
+- 💻 **Junior Developer** with training in **Full Stack Web Development** (HTML5, CSS3, JavaScript, AJAX, PHP, MySQL) and **Basic Pyth**.  
 - 🌐 Enthusiastic about **web development**: from building engaging user interfaces to optimized backend logic.  
 - 🤖 Interested in the world of **Artificial Intelligence** and its real-life applications.  
 - 📚 Always learning new technologies to enhance my skills and deliver creative solutions.  
