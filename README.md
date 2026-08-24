@@ -59,11 +59,31 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+---
 
-### My Projects ✨:
+### My Projects ✨
 
+<table>
+  <tr>
+    <td><strong>TaskFlow</strong></td>
+    <td>Full stack task management app — Angular, NestJS, MongoDB, JWT auth</td>
+  </tr>
+  <tr>
+    <td><strong>StockIA</strong></td>
+    <td>Inventory management system for small stores — Django, Claude API, Clean Architecture</td>
+  </tr>
+  <tr>
+    <td><strong>NEUROTRIAGE</strong></td>
+    <td>Hospital triage system — team project, SOLID/GoF patterns, BDD testing</td>
+  </tr>
+</table>
 
+---
 
+### 📊 GitHub Stats
 
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" width="400"/>
 
-
+<div align="center">
+   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true&section=footer" />
+</div>
