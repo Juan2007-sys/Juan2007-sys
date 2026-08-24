@@ -82,7 +82,7 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Juan2007-sys&show_icons=true&theme=radical" width="400"/>
 
 <div align="center">
    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true&section=footer" />
