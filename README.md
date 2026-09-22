@@ -1,166 +1,170 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F2027,50:203A43,100:2C5364&text=Juan%20Quevedo&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Automation%20%7C%20AI%20Integrations&descAlignY=55&descSize=18&animation=fadeIn" />
-
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:161b22,100:007acc&text=Juan%20Quevedo&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Automation%20%7C%20AI%20Integrations&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <a href="https://github.com/Juan2007-sys">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Angular+%2B+NestJS+%2B+MongoDB;RPA+%26+Automation+Enthusiast+%F0%9F%A4%96;Software+Engineering+Student+%40+UMB+%F0%9F%8E%93;Exploring+AI+%26+LLM+Integrations+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%F0%9F%92%BB;Angular+%2B+NestJS+%2B+TypeScript+%E2%9A%A1;RPA+%26+Process+Automation+%F0%9F%A4%96;Software+Engineering+Student+%40+UMB+%F0%9F%8E%93;AI-Driven+Web+Solutions+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Juan2007-sys&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="profile views"/>
-<a href="https://github.com/Juan2007-sys?tab=followers"><img src="https://img.shields.io/github/followers/Juan2007-sys?label=Followers&style=for-the-badge&color=58A6FF" /></a>
+<img src="https://komarev.com/ghpvc/?username=Juan2007-sys&label=PROFILE%20VIEWS&color=007acc&style=for-the-badge" alt="Profile Views"/>
+<a href="https://github.com/Juan2007-sys?tab=followers">
+  <img src="https://img.shields.io/github/followers/Juan2007-sys?label=FOLLOWERS&style=for-the-badge&color=0284c7&logo=github" alt="Followers" />
+</a>
 
 </div>
 
 <br>
 
-## 👋 Sobre mí
+## 👨‍💻 Sobre Mí
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding-gif.gif">
+<img align="right" width="300" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding-gif.gif" alt="Coding GIF">
 
-- 💻 **Full Stack Developer** en Bogotá, Colombia — construyo aplicaciones web con **Angular, NestJS, MongoDB & TypeScript**
-- 🎓 **6to semestre** de Ingeniería de Software en [Universidad Manuela Beltrán](https://umb.edu.co/) — estudio de noche mientras trabajo de día
-- 🛠️ Experiencia práctica con **automatización RPA**, **Docker** y entornos **Linux** en producción
-- 🤖 Explorando **integraciones de IA** en aplicaciones reales — desde APIs de LLMs hasta herramientas de automatización
-- 🚗 Actualmente construyendo una plataforma de **RPA propia** (estilo UiPath) sobre Angular
-- 🚀 Abierto a **proyectos freelance**, colaboraciones o cualquier reto que me haga crecer como desarrollador
+- 💻 **Desarrollador Full Stack** radicado en Bogotá, Colombia — enfocado en aplicaciones web escalables con **Angular, NestJS, TypeScript** y **MongoDB**.
+- 🎓 **Estudiante de 6to semestre de Ingeniería de Software** en la [Universidad Manuela Beltrán](https://umb.edu.co/).
+- ⚙️ Experiencia en **automatización de procesos (RPA)**, containerización con **Docker** y despliegues en entornos **Linux**.
+- 🤖 Integración de soluciones con **modelos de lenguaje (LLMs)** y herramientas de automatización moderna.
+- 🚀 Actualmente desarrollando una suite modular de automatización web y flujos inteligentes.
 
 <br clear="right">
 
 ---
 
-## 🧰 Stack Tecnológico
+## 🛠️ Stack Tecnológico
 
 <div align="center">
 
-**Lenguajes**
-<br>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+### Lenguajes de Programación
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-**Frameworks & Librerías**
 <br>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 
-**Bases de Datos**
-<br>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+### Frameworks & Arquitectura
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 
-**Herramientas & Entornos**
 <br>
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+
+### Bases de Datos
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<br>
+
+### Infraestructura, DevOps & Herramientas
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 </div>
 
 ---
 
-## 🚀 Proyectos Destacados
+## 📌 Proyectos Destacados
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📋 TaskFlow
-Aplicación full stack de gestión de tareas con autenticación JWT.
+### 📋 [TaskFlow](https://github.com/Juan2007-sys)
+Plataforma Full Stack orientada a la gestión y seguimiento de tareas en tiempo real. Incluye autenticación con JWT, control de roles y API desacoplada.
 
-`Angular` `NestJS` `MongoDB` `JWT`
+- **Frontend:** Angular, Tailwind CSS
+- **Backend:** NestJS, MongoDB, JWT
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📦 StockIA
-Sistema de inventario para tiendas de barrio en Bogotá, con integración de la API de Claude bajo Clean Architecture.
+### 📦 [StockIA](https://github.com/Juan2007-sys)
+Gestor de inventario y optimización de suministros para comercio local. Implementa procesamiento asistido por LLMs y principios de Arquitectura Limpia.
 
-`Django` `Claude API` `Clean Architecture`
+- **Stack:** Django, Claude API, SQLite/MySQL
+- **Patrones:** Clean Architecture, Service Layer
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏥 NEUROTRIAGE
-Sistema de triaje hospitalario desarrollado en equipo, aplicando patrones SOLID/GoF y pruebas BDD (Gherkin).
+### 🏥 [NEUROTRIAGE](https://github.com/Juan2007-sys)
+Sistema hospitalario de triaje médico con clasificación de prioridad clínica. Diseñado bajo estándares de ingeniería de software estructurados.
 
-`SOLID` `GoF Patterns` `BDD`
+- **Enfoque:** Patrones SOLID / GoF
+- **Testing:** Metodología BDD con especificaciones Gherkin
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 RPA Platform
-Plataforma de automatización de procesos robóticos construida sobre Angular, inspirada en herramientas como UiPath.
+### 🤖 [RPA Automation Studio](https://github.com/Juan2007-sys)
+Entorno interactivo para el diseño y ejecución de flujos de automatización robótica de procesos, inspirado en plataformas enterprise.
 
-`Angular` `Automation` `RPA`
+- **Frontend:** Angular, Reactive State
+- **Core:** Scripts de ejecución e integración headless
 
 </td>
 </tr>
 </table>
 
+---
+
+## 📊 Actividad & Métricas en GitHub
+
 <div align="center">
-<sub>📌 Fija tus repos favoritos aquí arriba desde tu perfil de GitHub para que aparezcan como cards interactivas.</sub>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Juan2007-sys&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan2007-sys&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Juan2007-sys&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+<br><br>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Juan2007-sys&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Reconocimientos
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Juan2007-sys&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan2007-sys&layout=compact&theme=radical&hide_border=true" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Juan2007-sys&theme=radical&hide_border=true" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Juan2007-sys&theme=react-dark&hide_border=true" width="100%"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Juan2007-sys&theme=radical&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
 </div>
 
 ---
 
-## 🏆 Trofeos
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Juan2007-sys&theme=radical&no-frame=true&row=1&column=7" />
-</div>
-
----
-
-## 📫 Conectemos
+## 📬 Contacto
 
 <div align="center">
 
 <a href="mailto:tu_correo@ejemplo.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://www.linkedin.com/in/tu-usuario">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+&nbsp;
+<a href="https://www.linkedin.com/in/tu-usuario" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://github.com/Juan2007-sys">
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white">
+&nbsp;
+<a href="https://github.com/Juan2007-sys" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br><br>
 
-<i>💬 Siempre feliz de hablar de tecnología, automatización o aplicaciones de IA.</i>
+<sub>¿Tienes un proyecto en mente o te interesa colaborar? No dudes en escribirme.</sub>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2C5364,50:203A43,100:0F2027&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:007acc,50:161b22,100:0d1117&section=footer" />
